@@ -227,9 +227,13 @@
 }
 
 .intro-bot{
-  vertical-align: bottom;
+  margin-bottom: 20px;
 }
 
 .intro-total-div{
   justify-content: space-around;
+}
+
+.intro-sec{
+  padding-top: 0rem;
 }
