@@ -220,3 +220,16 @@
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
+
+.row-my-intro div{
+  text-align: left;
+  margin-left: 20px;
+}
+
+.intro-bot{
+  vertical-align: bottom;
+}
+
+.intro-total-div{
+  justify-content: space-around;
+}
